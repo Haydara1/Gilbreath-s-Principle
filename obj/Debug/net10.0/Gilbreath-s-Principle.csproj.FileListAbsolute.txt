@@ -1,0 +1,14 @@
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/bin/Debug/net10.0/Gilbreath-s-Principle
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/bin/Debug/net10.0/Gilbreath-s-Principle.deps.json
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/bin/Debug/net10.0/Gilbreath-s-Principle.runtimeconfig.json
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/bin/Debug/net10.0/Gilbreath-s-Principle.dll
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/bin/Debug/net10.0/Gilbreath-s-Principle.pdb
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/obj/Debug/net10.0/Gilbreath-s-Principle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/obj/Debug/net10.0/Gilbreath-s-Principle.AssemblyInfoInputs.cache
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/obj/Debug/net10.0/Gilbreath-s-Principle.AssemblyInfo.cs
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/obj/Debug/net10.0/Gilbreath-s-Principle.csproj.CoreCompileInputs.cache
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/obj/Debug/net10.0/Gilbreath-s-Principle.dll
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/obj/Debug/net10.0/refint/Gilbreath-s-Principle.dll
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/obj/Debug/net10.0/Gilbreath-s-Principle.pdb
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/obj/Debug/net10.0/Gilbreath-s-Principle.genruntimeconfig.cache
+/Users/haydara/Developer/rider/Gilbreath-s-Principle/obj/Debug/net10.0/ref/Gilbreath-s-Principle.dll
