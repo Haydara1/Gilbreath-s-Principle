@@ -12,8 +12,6 @@ This is a C# console application inspired by a mathematical card trick that turn
 
 The performer first tests the spectator's ability to detect lies. After a series of guesses, the roles are reversed: the spectator must decide whether to tell the truth or lie, while the computer claims to know which choice was made.
 
-The result? An eerie little demonstration of mathematics disguised as magic. ✨
-
 ## 🎩 How It Works
 
 The trick has two phases:
@@ -48,8 +46,6 @@ The original trick relies on the **[Gilbreath Principle](https://en.wikipedia.or
 With the right initial arrangement and shuffling procedure, the deck retains a useful red-black structure even though its order appears random. Dealing the cards into separate piles preserves relationships between their colors.
 
 These relationships allow the performer to create the illusion that the computer can identify lies with uncanny accuracy.
-
-The magic isn't in the computer's intelligence. It's in the mathematics. 🔢
 
 ## 🛠️ Built With
 
