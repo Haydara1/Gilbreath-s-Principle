@@ -51,8 +51,11 @@ These relationships allow the performer to create the illusion that the computer
 
 - 💻 C#
 - 🖥️ .NET Console Application
+- Jupyter notebook
 
 ## 🚀 Getting Started
+
+### C#
 
 Make sure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed.
 
@@ -63,6 +66,10 @@ dotnet run
 ```
 
 To execute the magic trick, you can find detailed instructions in the program.cs file.
+
+### Jupyter notebook
+
+You can find a jupyter notebook file in Source directory.
 
 ## 🌱 Project Goals
 
